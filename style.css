@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Ubuntu:ital@1&display=swap");
+* {
+  font-family: "Ubuntu", sans-serif;
+  background-color: #c7ecee;
+}
+h1 {
+  text-shadow: -0.5px 3px white;
+  color: red;
+}
+p {
+  font-weight: bold;
+  color: #535c68;
+  text-shadow: -1px 1px #dff9fb;
+}
